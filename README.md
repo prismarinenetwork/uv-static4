@@ -1,1 +1,1 @@
-# uv-static-test
+This is a test for UV static
